@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "0.0.0",
+  "description": "Personal portfolio site",
+  "author": "Dominic English",
+  "dependencies": {
+    "bower": "latest",
+    "compression": "^1.1.0",
+    "express": "^4.9.6",
+    "grunt": "latest",
+    "grunt-cli": "latest",
+    "jade": "^1.7.0"
+  },
+  "devDependencies": {
+    "grunt-concurrent": "^1.0.0",
+    "grunt-contrib-jade": "^0.13.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-karma": "^0.9.0",
+    "grunt-nodemon": "^0.3.0",
+    "grunt-sass": "^0.14.2",
+    "karma": "^0.12.24",
+    "karma-chrome-launcher": "^0.1.5",
+    "karma-jasmine": "^0.1.5"
+  }
+}
